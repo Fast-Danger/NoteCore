@@ -1,4 +1,5 @@
 # NoteCore - PreAlpha1
+![NoteCore](https://github.com/user-attachments/assets/76ec8ba1-9a84-43d5-ad2b-69d7147b29d1)
 
 ## Features
 - **Document Printing:** Print your documents with ease.
