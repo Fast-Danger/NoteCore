@@ -7,6 +7,7 @@
 - **Document Loading:** Quickly access previously saved documents.
 - **Basic Text Editing:** Perform essential text editing tasks.
 - **Animations:** Enjoy smooth animations throughout the application.
+![Note Core Art](https://github.com/user-attachments/assets/33d335ac-bc2a-4301-a1e1-8296f749134a)
 
 ## Important: Opening Saved Files
 To open saved files, please follow these steps:
