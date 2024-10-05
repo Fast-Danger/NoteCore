@@ -7,8 +7,9 @@
 - **Document Loading:** Quickly access previously saved documents.
 - **Basic Text Editing:** Perform essential text editing tasks.
 - **Animations:** Enjoy smooth animations throughout the application.
-  
-![Note Core Art](https://github.com/user-attachments/assets/33d335ac-bc2a-4301-a1e1-8296f749134a)
+
+![Dark Mode](https://github.com/user-attachments/assets/ae51588f-7268-480e-b1c9-e013e6dc00c6)
+
 
 ## Important: Opening Saved Files
 To open saved files, please follow these steps:
@@ -16,6 +17,8 @@ To open saved files, please follow these steps:
 2. Select **Open with...** from the context menu.
 3. If you do not see NoteCore in the list of applications, scroll down and choose **Choose another app**.
 4. Navigate to the NoteCore app location and select the main executable file.
+
+![Note Core Art](https://github.com/user-attachments/assets/33d335ac-bc2a-4301-a1e1-8296f749134a)
 
 ## Known Issues
 - **Low Resolution:** Document printing currently has low resolution.
